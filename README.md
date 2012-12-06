@@ -27,7 +27,7 @@ https://github.com/rlecheta/turtle/blob/master/Tarta/src-etc/mapas/map1.txt
 
 5) Utiliza a Game API de J2ME que foi portada para Android.
 
-Inicialmente peguei a versão daqui, e depois fiz modificões.
+Inicialmente peguei a versão daqui, e depois fiz modifições.
 
 http://code.google.com/p/sporksoft/source/browse/#svn/trunk/com/sporksoft/game
 
