@@ -40,5 +40,7 @@ Não devo mais me lembrar do fonte, então bom proveito. Nada que uma debugada v
 
 abraços
 Ricardo Lecheta
+
 http://www.ricardolecheta.com.br
+
 http://www.livroandroid.com.br
