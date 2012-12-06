@@ -38,7 +38,7 @@ e ainda a parte de movimento e tratamento de colisões está tudo implementado.
 
 6) A classe GameManager é onde está o game loop do jogo, portanto é por lá que você deve começar.
 
-Não devo mais me lembrar do fonte, mas nada que uma debugada você não consiga entender.
+Não devo mais me lembrar do fonte, mas nada que com uma boa debugada você não consiga entender.
 
 Se quiser ver os prints do jogo, tem aqui: http://ricardolecheta.com.br/?p=66
 
