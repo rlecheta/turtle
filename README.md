@@ -36,11 +36,12 @@ O gameapi.jar e fontes estão na pasta libs do projeto.
 A vantagem da Game API é que os cenários e personagems podem ser criados facilmente com as classes de TileManager e Sprite, 
 e ainda a parte de movimento e tratamento de colisões está tudo implementado.
 
-6) A classe GameManager é onde está o game loop do jogo, é por lá que você deve começar.
+6) A classe GameManager é onde está o game loop do jogo, portanto é por lá que você deve começar.
 
-Não devo mais me lembrar do fonte, então bom proveito. Nada que uma debugada você não consiga entender.
+Não devo mais me lembrar do fonte, mas nada que uma debugada você não consiga entender.
 
-abraços
+Bons estudos. 
+
 Ricardo Lecheta
 
 http://www.ricardolecheta.com.br
