@@ -5,7 +5,7 @@ O jogo Running Turtle (https://play.google.com/store/apps/details?id=br.android.
 
 Ele foi feito em 2010 e nunca mais trabalhei nele.
 
-Como não pretendo mais trabalhar no jogo, estou liberando o fonte, para auxiliar quem deseja estudar como ele foi feito.
+Eu não pretendo mais trabalhar no jogo, então estou liberando o código-fonte, para auxiliar quem deseja estudar como o jogo foi feito.
 
 ----------------------------------
 
