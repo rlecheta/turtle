@@ -1,4 +1,4 @@
-turtle
+Jogo da Tartaruga
 ======
 
 O jogo Running Turtle (https://play.google.com/store/apps/details?id=br.android.tarta) está publicado no Android Market.
