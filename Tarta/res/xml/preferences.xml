@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/sound_preferences">
+            
+        <CheckBoxPreference
+                android:key="pref_sound_on"
+                android:title="@string/sound_preferences_title"
+                android:summary="@string/sound_preferences_summary" />
+            
+    </PreferenceCategory>
+                
+    <PreferenceCategory
+            android:title="@string/control_preferences">
+
+        <ListPreference
+                android:key="pref_control"
+                android:title="@string/control_preferences_title"
+                android:summary="@string/control_preferences_title_summary"
+                android:entries="@array/array_control"
+                android:entryValues="@array/array_control_values"
+                android:dialogTitle="@string/control_preferences" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,14 @@
+cenario:5
+D                                                                                                                                                                                                                          C
+D                                                                                                                                                                                                 2                        C
+D                                                                                                                                                                                 4              II                        C
+D                                                                                                                                                                                III            I I     I    I   I         C
+D                                                                                     I I I  II  II                                                                          IIIIII IIII       I   IIIIIIIIIIIIIII         C
+D                                                                          3!        I                                                                                      II         II     I                            C
+D                                                                     IIIIIIIIIIIIIII                    1             1                                                IIIII           II   I                             C
+D                                                                    I                              IIIIIIIIIIIIIIIIIIIIIII                                            IIIII    4  1    IIIIII                 4           C
+D                                                                   I                                                                                         4       II       IIIIIIIII                     EBBBBBBBBBBBBBG
+D                                                           3      I                   ooo                                                           IIIIIIIIII      II                                  EBBBGAAAAAAAAAAAAAA
+D                                                                 I                                                                                                 II                              EBBBBGAAAAAAAAAAAAAAAAAA
+D   #      o   o   o             1             4                 I                      1                                        o o o               o o o         II *      EBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAA
+HBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

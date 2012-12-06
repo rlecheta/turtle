@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Background para menu -->
+	<style name="Theme.Tarta" parent="@android:style/Theme.Light">
+		<item name="android:windowNoTitle">true</item>
+		<!--
+			<item name="android:windowBackground">@drawable/menu_background</item>
+		-->
+	</style>
+	
+	<!-- Splash Screen "Loading..." -->
+	<style name="textSplash">
+		<item name="android:textSize">42sp</item>
+		<item name="android:textColor">#0000ff</item>
+		<item name="android:textStyle">italic|bold</item>
+	</style>
+
+	<!-- Texto Branco -->
+	<style name="botaoMenu">
+		<item name="android:textSize">20sp</item>
+		<item name="android:textColor">#000000</item>
+		<item name="android:textStyle">italic|bold</item>
+	</style>
+	
+	<!-- Texto Branco Menu Fase -->
+	<style name="itemMenuFaseCompleta">
+		<item name="android:textSize">22sp</item>
+		<item name="android:textColor">#ffffff</item>
+		<item name="android:textStyle">italic|bold</item>
+	</style>
+	
+	<style name="itemMenuFaseCinza">
+		<item name="android:textSize">20sp</item>
+		<item name="android:textColor">#cccccc</item>
+		<item name="android:textStyle">italic|bold</item>
+	</style>
+	
+	<!-- Titulo -->
+	<style name="titulo">
+		<item name="android:textColor">#000080</item>
+		<item name="android:textSize">42sp</item>
+	</style>
+
+</resources>

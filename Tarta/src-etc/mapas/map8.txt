@@ -1,0 +1,15 @@
+cenario:3
+D                                                                                    II                                                                                                                    C
+D                                                                                    II                                                                                                                    C
+D                                                                       2            II                                                                                                                    C
+D                                                       3              IIIIIIIIIII   II      2                                                                                                             C
+D                                                          IIII     2II              II                                                                                                                    C
+D     IIIIIIIII        8         II            2         II    II  II       3        II                                                                                                                    C
+D #  II        II         8    II  II              2   II        II         !        II                                                                                                                    C
+DIIIII          III          II      II              II               IIIIIIIIIIIIIIIIIII                1                                                   2                        2                    C
+D                  II      II          II     2    II                II                 IIIIIIIIIIIIIIIIIIII                                         2      II         2              II                   C
+D                    II  II              II      II                 II                                                                        2     II                 II             II                   C
+D                      II          2       IIIIII           3      II                  ooo                                    2               II                      III             II                   C
+D               II                                                                                        II                  II                                     IIII        @    II      2  !   !  *  C
+D   u     o   o IIII            1             1                                       1                   II  2       @      2II o o   o o                 EBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBG
+HBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

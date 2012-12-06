@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:background="@drawable/background"
+	android:orientation="vertical"
+	android:id="@+id/layout"
+>
+		<ImageView
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:src="@drawable/titulo" 
+			android:gravity="center|top"
+			android:padding="2sp"
+			style="@style/titulo"/>
+		
+		<LinearLayout
+				android:id="@+id/layoutMenu"
+		    	android:layout_width="fill_parent"
+		    	android:layout_height="fill_parent"
+				android:orientation="vertical"
+				android:gravity="bottom"
+				android:layout_gravity="bottom"
+			>
+
+			<Button
+				android:id="@+id/btIniciar"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/menu_start" 
+				android:background="@drawable/botao"
+				style="@style/botaoMenu"
+				android:layout_marginTop="2sp"
+			/>
+	
+			<Button
+				android:id="@+id/btResume"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/menu_resume" 
+				android:background="@drawable/botao"
+				style="@style/botaoMenu"
+				android:layout_marginTop="2sp"
+			/>
+	
+			<Button
+				android:id="@+id/btOpcoes"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/menu_options" 
+				android:background="@drawable/botao"
+				style="@style/botaoMenu"
+				android:layout_marginTop="2sp"
+			/>
+			
+			<Button
+				android:id="@+id/btExit"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/menu_exit" 
+				android:background="@drawable/botao"
+				style="@style/botaoMenu"
+				android:layout_marginTop="2sp"
+			/>
+			
+		</LinearLayout>
+</LinearLayout>

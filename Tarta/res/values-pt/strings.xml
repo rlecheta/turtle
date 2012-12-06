@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Turtle</string>
+	<string name="tarta">TARTA</string>
+
+	<string name="loading">CARREGANDO...</string>
+	<string name="play_other_level_first">Por favor, jogue as outras fases primeiro!</string>
+	<string name="calibrate_how_to">Coloque ele deitado na mesa, e pressione OK.</string>
+
+	<!-- Menu -->
+	<string name="menu_start">Novo Jogo</string>
+	<string name="menu_resume">Continuar</string>
+	<string name="menu_continue">Continuar</string>
+	<string name="menu_options">Opções</string>
+	<string name="menu_help">Ajuda</string>
+	<string name="menu_about">Sobre</string>
+	<string name="menu_update">Atualizar</string>
+	<string name="menu_restart">Reiniciar</string>
+	<string name="menu_pause">Pause</string>
+	<string name="menu_exit">Sair</string>
+	<string name="menu_back">Voltar</string>
+	<string name="menu_sinc">Sincronizar</string>
+	<string name="menu_config">Config</string>
+	<string name="menu_calibrate">Sensor</string>
+
+	<!-- Menu Options -->
+	<string name="keyboard">Teclado físico</string>
+	<string name="touch">Touch Screen</string>
+	<string name="sensor">Acelerômetro (beta)</string>
+	<string name="menu_mode_back">Voltar</string>
+	<string name="menu_mode_update">Atualizar</string>
+	<string name="ok">OK</string>
+
+	<!-- Game -->
+	<string name="lives">Vidas</string>
+	<string name="points">Pontos</string>
+	<string name="points_total">Total</string>
+	<string name="level">Fase</string>
+	<string name="eggs">Ovos</string>
+	<string name="game_over">Fim do Jogo</string>
+	<string name="level_completed">Fim da Fase!</string>
+	<string name="game_you_win">Você Venceu, Parabéns!</string>
+	<string name="game_next_level">Próxima Fase</string>
+	
+	<!-- Preferences -->
+	<string name="sound_preferences">Som</string>
+	<string name="sound_preferences_title">Som ligado</string>
+    <string name="sound_preferences_summary">Música e som do jogo</string>
+
+	<string name="control_preferences">Controle</string>
+	<string name="control_preferences_title">Controle do Jogo</string>
+    <string name="control_preferences_title_summary">Teclado físico, Touch Screen ou Acelerômetro</string>
+    
+    <!-- What´s new -->
+    <string name="whats_new_dialog_title">Turtle - novidades</string>
+    <string name="whats_new_dialog">
+<b>Versão 0.1</b>\n
+\t• Primeira release.\n
+\t• O som está desligado.\n
+\n
+Este é um jogo gratuito e está em pleno desenvolvimento.
+Ajude a testar o jogo e nos envie o seu feedback.
+</string>
+</resources>

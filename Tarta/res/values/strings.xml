@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Turtle</string>
+	<string name="tarta">TARTA</string>
+
+	<string name="loading">LOADING...</string>
+	<string name="play_other_level_first">Please, play the previous levels first!</string>
+	<string name="calibrate_how_to">Put it flat the table, and click OK.</string>
+
+	<!-- Menu -->
+	<string name="menu_start">New Game</string>
+	<string name="menu_resume">Resume</string>
+	<string name="menu_continue">Continue</string>
+	<string name="menu_options">Options</string>
+	<string name="menu_help">Help</string>
+	<string name="menu_about">About</string>
+	<string name="menu_update">Update</string>
+	<string name="menu_restart">Restart</string>
+	<string name="menu_pause">Pause</string>
+	<string name="menu_exit">Exit</string>
+	<string name="menu_back">Back</string>
+	<string name="menu_sinc">Sincronize</string>
+	<string name="menu_config">Config</string>
+	<string name="menu_calibrate">Sensor</string>
+
+	<!-- Menu Options -->
+	<string name="keyboard">Keyboard</string>
+	<string name="touch">Touch Screen</string>
+	<string name="sensor">Accelerometer (beta)</string>
+	<string name="menu_mode_back">Back</string>
+	<string name="menu_mode_update">Update</string>
+	<string name="ok">OK</string>
+
+	<!-- Game -->
+	<string name="lives">Lives</string>
+	<string name="points">Points</string>
+	<string name="points_total">Total</string>
+	<string name="level">Level</string>
+	<string name="eggs">Eggs</string>
+	<string name="game_over">Game Over</string>
+	<string name="level_completed">Level completed!</string>
+	<string name="game_you_win">You win, congratulations!</string>
+	<string name="game_next_level">Nest Level</string>
+
+	<!-- Preferences -->
+	<string name="sound_preferences">Sound</string>
+	<string name="sound_preferences_title">Sound on</string>
+    <string name="sound_preferences_summary">Music and sounds of the game</string>
+
+	<string name="control_preferences">Control</string>
+	<string name="control_preferences_title">Control of the Game</string>
+    <string name="control_preferences_title_summary">Keyboard, Touch Screen or Accelerometer</string>
+
+    <!-- What´s new -->
+    <string name="whats_new_dialog_title">Turtle - news</string>
+    <string name="whats_new_dialog">
+<b>Version 0.1</b>\n
+\t• First release.\n
+\t• The sound is off.\n
+\n
+\n
+This is a free game developed using Android 2D graphics. We are still developing it, so fell free
+to send us your feedback, and help us test the game. 
+</string>
+
+</resources>

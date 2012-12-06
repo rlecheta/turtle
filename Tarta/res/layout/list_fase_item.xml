@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="wrap_content"
+	android:orientation="horizontal"
+	android:paddingTop="2dip"
+	android:paddingBottom="2dip"
+	android:paddingLeft="2dip"
+	android:paddingRight="2dip"
+	android:minHeight="?android:attr/listPreferredItemHeight"
+>
+	<TextView android:id="@+id/lListNomeFase" android:layout_weight="9"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_marginLeft="16dip"
+        android:layout_marginTop="16dip"
+		style="@style/itemMenuFaseCinza"
+	/>
+	<ImageView android:id="@+id/imgFaseComplete" android:layout_weight="1"
+		android:layout_height="wrap_content" android:layout_width="wrap_content"
+		android:layout_gravity="center"
+	/>
+</LinearLayout>

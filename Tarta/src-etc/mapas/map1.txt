@@ -1,0 +1,11 @@
+cenario:1
+D                                                                                                                                                                                                                          C
+D                                                                                                                                                                                                                          C
+D                                                                                                                                                                                                                          C
+D                                                                    #                                                                                                                                                     C
+D                                                                    I   1  !  1 I                         #                                                          2                2                     8             C
+D                                                                   IIIIIIIIIIIIII                        EBF                                                2       II               II                  1         @   *  C
+D                                                                  I                   ooo              EBGAD                                               II                                8          EBBBBBBBBBBBBBBBBBG
+D                          u        1                 8                                       8       EBGAAAD                                                                                        EBBBGAAAAAAAAAAAAAAAAAA
+D   #      o   o   o   EBBBBBBBBBBBBBBF                        1                                    EBGAAAAAD     1             1                 o o o               o o o                 EBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAA
+HBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

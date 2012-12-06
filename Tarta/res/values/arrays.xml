@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Preferences -->
+	<string-array name="array_control">
+		<item>@string/keyboard</item>
+		<item>@string/touch</item>
+		<item>@string/sensor</item>
+	</string-array>
+	
+    <string-array name="array_control_values">
+        <item>keyboard</item>
+        <item>touch</item>
+        <item>sensor</item>  
+    </string-array>
+
+</resources>
