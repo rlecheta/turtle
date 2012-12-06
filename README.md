@@ -40,7 +40,7 @@ e ainda a parte de movimento e tratamento de colisões está tudo implementado.
 
 Não devo mais me lembrar do fonte, mas nada que uma debugada você não consiga entender.
 
-Se quiser ver os prints do jogo, tema aqui: http://ricardolecheta.com.br/?p=66
+Se quiser ver os prints do jogo, tem aqui: http://ricardolecheta.com.br/?p=66
 
 Bons estudos. 
 
