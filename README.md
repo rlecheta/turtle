@@ -15,6 +15,8 @@ https://play.google.com/store/apps/details?id=br.android.tarta
 
 2) Engine feita com base no livro: Developing Games in Java (David Brackeen)
 
+http://www.brackeen.com/javagamebook/
+
 3) O capítulo 5 é extramente interessante, e é a base da engine.
 
 Paralax scrolling, tile-based maps, gravity, jumping, and bounding-box collisions.
