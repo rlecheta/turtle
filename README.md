@@ -42,7 +42,7 @@ Não devo mais me lembrar do fonte, mas nada que com uma boa debugada você não
 
 Se quiser ver os prints do jogo, tem aqui: http://ricardolecheta.com.br/?p=66
 
-7) O Design do jogo foi feito pelo designer Alex Marik, confira este e outos trabalhos aqui (http://alexmarik.blogspot.com.br)
+7) O Design (cenários, personagens) do jogo foi feito pelo designer Alex Marik, confira este e outos trabalhos aqui (http://alexmarik.blogspot.com.br)
 
 Bons estudos. 
 
